@@ -12,9 +12,8 @@ My journey in computer science and technology has led me to develop a passion fo
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | System Admin Security Management for Windows Domain | <a href="https://github.com/wicklanm/System-Admin-Lab">Security Admin Lab</a>|
-| Penetration Testing Report | <a href="https://docs.google.com/document/d/1TjQkQ2_uKC1X8APdhnXkZQGdTJfLDRmMpG-kSrGISFk/edit?usp=sharing">Penetration Testing Report</a>|
-| Pen Test Executive Summary  | <a href="https://docs.google.com/presentation/d/161lQ8qt1iaboiJ5yg3RX_7pl_R9nWCkm8nlrjxCW4x8/edit?usp=sharing"> Pen Test report|
-| System Hardening    | SOC Automation Lab|
+| Penetration Testing Report | <a href="https://github.com/wicklanm/Penetration-Testing-Report">Penetration Testing Report</a>|
+| Pen Test Executive Summary  | <a href="https://docs.google.com/document/d/1SKuS3mXleeeUggNx4XOYpP6bPYz7pBsaNxDezYtrjwE/edit?usp=sharing"> Pen Test report|
 
 ## Tools
 
@@ -59,6 +58,5 @@ My journey in computer science and technology has led me to develop a passion fo
 
 ## Projects
 - <a href="https://github.com/wicklanm/System-Admin-Lab">Security Admin Lab</a>
-- Penetration Testing Report
-- Pen Test Executive Summary
-- System Hardening
+- <a href="https://github.com/wicklanm/Penetration-Testing-Report">Penetration Testing Report</a>
+- <a href="https://docs.google.com/document/d/1SKuS3mXleeeUggNx4XOYpP6bPYz7pBsaNxDezYtrjwE/edit?usp=sharing"> 
