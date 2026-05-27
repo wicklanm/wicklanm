@@ -15,6 +15,7 @@ My journey in computer science and technology has led me to develop a passion fo
 | System Admin Security Management for Windows Domain | <a href="https://github.com/wicklanm/System-Admin-Lab">Security Admin Lab</a>|
 | Penetration Testing Report | <a href="https://github.com/wicklanm/Penetration-Testing-Report">Penetration Testing Report</a>|
 | Pen Test Executive Summary  | <a href="https://docs.google.com/document/d/1SKuS3mXleeeUggNx4XOYpP6bPYz7pBsaNxDezYtrjwE/edit?usp=sharing">Pen Test Executive Summary</a> |
+| Microsoft Azure Cloud Network with Defender  | <a href="https://github.com/wicklanm/Microsoft-Azure-Sentinel-Lab-SIEM-1">System Admin/SOC Analyst Lab</a>|
 
 ## Tools
 
@@ -62,3 +63,4 @@ My journey in computer science and technology has led me to develop a passion fo
 - <a href="https://github.com/wicklanm/System-Admin-Lab">Security Admin Lab</a>
 - <a href="https://github.com/wicklanm/Penetration-Testing-Report">Penetration Testing Report</a>
 - <a href="https://docs.google.com/document/d/1SKuS3mXleeeUggNx4XOYpP6bPYz7pBsaNxDezYtrjwE/edit?usp=sharing">Pen Test Executive Summary</a>
+- <a href="https://github.com/wicklanm/Microsoft-Azure-Sentinel-Lab-SIEM-1">System Admin/SOC Analyst Lab</a>
