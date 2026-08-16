@@ -11,7 +11,7 @@ My journey in computer science and technology has led me to develop a passion fo
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SOC Analyst Environment Lab with WAZUH | <a href="https://github.com/wicklanm/Wazuh-SOC-LAB">SOC Analyst Lab</a> |
+| SOC Analyst Environment Lab with WAZUH | <a href="https://github.com/wicklanm/Wazuh-SOC-LAB">SOC Analyst Lab W/Incident Response Report</a> |
 | SOC Analyst Environment Lab with Elasticsearch | <a href="https://github.com/wicklanm/SIEM-Lab-using-ElasticSearch-and-Kibana">SOC Analyst Lab</a> |
 | System Admin Security Management for Windows Domain | <a href="https://github.com/wicklanm/System-Admin-Lab">Security Admin Lab</a>|
 | Penetration Testing Report | <a href="https://github.com/wicklanm/Penetration-Testing-Report">Penetration Testing Report</a>|
