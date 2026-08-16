@@ -22,6 +22,7 @@ My journey in computer science and technology has led me to develop a passion fo
 
 ### Virtualization
 <div>
+    <img src="https://img.shields.io/badge/-Microsoft_Azure-0078D4?&style=for-the-badge&logo=Microsoft-Azure&logoColor=white" />
     <img src="https://img.shields.io/badge/-VirtualBox-183A61?&style=for-the-badge&logo=virtualbox&logoColor=white" />
     <img src="https://img.shields.io/badge/-Vultr-007BFC?&style=for-the-badge&logo=vultr&logoColor=white" />
     <img src="https://img.shields.io/badge/-VMware-607078?&style=for-the-badge&logo=vmware&logoColor=white" />
@@ -29,6 +30,7 @@ My journey in computer science and technology has led me to develop a passion fo
 
 ### Network
 <div>
+    <img src="https://img.shields.io/badge/-Microsoft_Azure-0078D4?&style=for-the-badge&logo=Microsoft-Azure&logoColor=white" />
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
     <img src="https://img.shields.io/badge/-Tenable_Nessus-00AEEF?&style=for-the-badge&logo=tenable&logoColor=white" />
 <div>
